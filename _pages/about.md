@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Eugene. Right now I work at S2W Inc., where I am a senior researcher in the AI Team. I work on applying NLP methods to detect and interpret various forms of cybercrime. I am also working on automatic processing of cyber threat intelligence (CTI) information.
+Hi, my name is Eugene. Right now I work at Korean data intelligence startup S2W Inc., where I work as a senior researcher in the AI Team. I worked on **AI for security**: applying NLP methods to detect and interpret various forms of cybercrime, as well as automatatically processing cyber threat intelligence (CTI).
 
-I am most interested in how to make models adapt to new or changing information. Currently, I work with retrieval as a way of augmenting nonparametric knowledge. In the long term, I believe interpreting parameterized knowledge will lead to more sophisticated methods of augmentation.
+Nowadays, I'm working on vice versa, **security for AI**. My current research revolves around adversarial attacks on LLMs and robust training methods. If you're working on these areas, feel free to reach out to me!
 
 Prior to all of this, I received my Bachelor's and Master's degrees at KAIST. During this time I engaged with a number of topics including media bias (Master's), computer vision (Bachelor's), and physics (minor).
 
