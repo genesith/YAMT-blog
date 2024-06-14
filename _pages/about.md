@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, my name is Eugene. Right now I work at Korean data intelligence startup S2W Inc., where I work as a researcher in the AI Team. I worked on **AI for security**: applying models to detect and interpret various forms of cybercrime \[[1](https://aclanthology.org/2022.naacl-main.412/),[2](https://aclanthology.org/2023.acl-long.415/),[3](https://arxiv.org/abs/2301.13577)\], as well as automatatically processing cyber threat intelligence (CTI) \[[4](https://arxiv.org/abs/2403.10576)\].
 
-Nowadays, I'm working on vice versa, **security for AI**. My current research revolves around adversarial attacks on LLMs and robust training methods. If you're working on these areas, feel free to reach out to me! 
+Nowadays, I'm working on vice versa, **security for AI**. My current research revolves around adversarial attacks on LLMs and creating robust models. Right now, I'm looking into tokenizers as a vulnerable part of LLM pipelines. If you're working on these areas, feel free to reach out to me! 
 
 Prior to all of this, I received my Bachelor's and Master's degrees at KAIST. During this time I engaged with a number of topics including media bias (Master's), computer vision (Bachelor's), and physics (minor).
 
