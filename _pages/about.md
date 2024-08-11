@@ -16,7 +16,7 @@ Prior to all of this, I received my Bachelor's and Master's degrees at KAIST. Du
 
 I am actively looking for **PhD programs for Fall 2025**. Any advice/discussion is highly appreciated!
 
-You can find me CV ![here](/files/CV_2024Jun.pdf)
+You can find me CV [here](/files/CV_2024Jun.pdf)
 
 
 Trivia
