@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Eugene. Right now I work at Korean data intelligence startup S2W Inc., where I work as a researcher in the AI Team. I worked on **AI for security**: applying models to detect and interpret various forms of cybercrime \[[1](https://aclanthology.org/2022.naacl-main.412/),[2](https://aclanthology.org/2023.acl-long.415/),[3](https://arxiv.org/abs/2301.13577)\], as well as automatatically processing cyber threat intelligence (CTI) \[[4](https://arxiv.org/abs/2403.10576)\].
+Hi, my name is Eugene. Right now I work at Korean data intelligence startup S2W Inc., where I work as a researcher in the AI Team. I worked on **AI for security**: applying models to detect and interpret various forms of cybercrime \[[1](https://aclanthology.org/2022.naacl-main.412/),[2](https://aclanthology.org/2023.acl-long.415/),[3](https://arxiv.org/abs/2301.13577)\], as well as automatatically processing cyber threat intelligence (CTI) \[[4](https://arxiv.org/abs/2403.10576)\]. More recently, I'm working on vice versa, **security for AI**.
 
-Nowadays, I'm working on vice versa, **security for AI**. My current research revolves around adversarial attacks on LLMs and creating robust models. Right now, I'm looking into tokenizers as a vulnerable part of LLM pipelines. If you're working on these areas, feel free to reach out to me! 
+
+Right now I'm looking at:
+  * LLMs for cybersecurity: Cybersecurity domain expertise of LLMs are a very important dual-use capability that can benefit both attackers and defenders. The workflow of cybersecurity is complicated, can we demonstrate LLM expertise beyond domain knowledge?
+  * Secure and Trustworthy NLP Applications: Models break more often than we want them to, given the right input. Can we understand the mechanisms of these failures and prevent them?
+  * Tokenization: Many model issues can be traced to the tokenizer, a product of many design choices that impact the model in subtle ways. Can we creative both better tokenizers and model-tokenizer interactions.
 
 Prior to all of this, I received my Bachelor's and Master's degrees at KAIST. During this time I engaged with a number of topics including media bias (Master's), computer vision (Bachelor's), and physics (minor).
 
-I am actively looking for **PhD programs for Fall 2025**. Any advice/discussion is highly appreciated!
-
-You can find me CV [here](/files/CV_2024Jun.pdf)
+I am actively looking for **PhD programs for Fall 2025**. Any advice/discussion is highly appreciated! You can find me CV [here](/files/CV_2024Jun.pdf).
 
 
 Trivia
