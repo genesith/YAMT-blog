@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Eugene. Right now I work at Korean data intelligence startup S2W Inc., where I work as a researcher in the AI Team. I worked on **AI for security**: applying models to detect and interpret various forms of cybercrime \[[1](https://aclanthology.org/2022.naacl-main.412/),[2](https://aclanthology.org/2023.acl-long.415/),[3](https://arxiv.org/abs/2301.13577)\], as well as automatatically processing cyber threat intelligence (CTI) \[[4](https://arxiv.org/abs/2403.10576)\]. More recently, I'm working on vice versa, **security for AI**.
+Hi, my name is Eugene. Right now I work at Korean data intelligence startup S2W Inc., where I work as a researcher in the AI Team. I worked on **AI for security**: applying models to detect and interpret various forms of cybercrime \[[1](https://aclanthology.org/2022.naacl-main.412/),[2](https://aclanthology.org/2023.acl-long.415/),[3](https://arxiv.org/abs/2301.13577)\], as well as automatatically processing cyber threat intelligence (CTI) \[[4](https://aclanthology.org/2024.findings-naacl.3/)\]. More recently, I'm working on vice versa, **security for AI**.
 
 
 Right now I'm looking at:
