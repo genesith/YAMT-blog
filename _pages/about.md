@@ -14,7 +14,7 @@ Hi, my name is Eugene. Right now I work at Korean data intelligence startup S2W 
 Right now I'm looking at:
   * [LLMs for cybersecurity](/posts/2024/LLM4Cyber): Cybersecurity domain expertise of LLMs are a very important dual-use capability that can benefit both attackers and defenders. The workflow of cybersecurity is complicated, can we demonstrate LLM expertise beyond domain knowledge?
   * Secure and Trustworthy NLP Applications: Models break more often than we want them to, given the right input. Can we understand the mechanisms of these failures and prevent them?
-  * Tokenization: Many model issues can be traced to the tokenizer, a product of many design choices that impact the model in subtle ways. Can we creative both better tokenizers and model-tokenizer interactions.
+  * Tokenization: Many model issues can be traced to the tokenizer, a product of many design choices that impact the model in subtle ways. Can we creative both better tokenizers and model-tokenizer interactions?
 
 Prior to all of this, I received my Bachelor's and Master's degrees at KAIST. During this time I engaged with a number of topics including media bias (Master's), computer vision (Bachelor's), and physics (minor).
 
