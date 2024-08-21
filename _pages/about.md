@@ -23,7 +23,7 @@ I am actively looking for **PhD programs for Fall 2025**. Any advice/discussion 
 
 Trivia
 ------
-1. My cat's name is Squash. He has moved to the US, where he now lives with his stepbrother Pumpkin.
+1. My cat's name is Squash. He has moved to Florida, where [he now lives with his stepbrother Pumpkin](/assets/img/thebois.jpg).
 2. I used to write [articles](https://herald.kaist.ac.kr/news/articleView.html?idxno=1821) for the school's English newspaper, usually complaining about something in the Society section.
 3. I enjoy playing electric guitar, but like music that's too technical for my own good. I eagerly await for an AI system that can transcribe very fast solos from songs.
 
