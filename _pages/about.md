@@ -23,7 +23,7 @@ I am actively looking for **PhD programs for Fall 2025**. Any advice/discussion 
 
 Recent News
 ------
-2024 Sep - Our [paper on security event detection from Tweets](https://arxiv.org/abs/2409.08221) was accepted to NDSS 2025!
+**2024 Sep** - Our [paper on security event detection from Tweets](https://arxiv.org/abs/2409.08221) was accepted to NDSS 2025!
 
 
 Trivia
