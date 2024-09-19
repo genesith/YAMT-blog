@@ -21,6 +21,11 @@ Prior to all of this, I received my Bachelor's and Master's degrees at KAIST. Du
 I am actively looking for **PhD programs for Fall 2025**. Any advice/discussion is highly appreciated! You can find me CV [here](/files/CV_2024Jun.pdf).
 
 
+Recent News
+------
+2024 Sep - Our [paper on security event detection from Tweets](https://arxiv.org/abs/2409.08221) was accepted to NDSS 2025!
+
+
 Trivia
 ------
 1. My cat's name is Squash. He has moved to Florida, where [he now lives with his stepbrother Pumpkin](/assets/img/thebois.jpg).

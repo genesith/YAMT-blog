@@ -5,10 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+- Jian Cui, Hanna Kim, __Eugene Jang__, Dayeon Yim, Kicheol Kim, Yongjae Lee, Jin-Woo Chung, Seungwon Shin, Xiaojing Liao.
+**Tweezers: A Framework for Security Event Detection via Event Attribution-centric Tweet Embedding**
+NDSS 2025.
+[\[Paper\]](https://arxiv.org/abs/2409.08221)
+
 - __Eugene Jang__, Jian Cui, Dayeon Yim, Youngjin Jin, Jin-Woo Chung, Seungwon Shin, Yongjae Lee.          
 **Ignore Me But Don't Replace Me: Utilizing Non-Linguistic Elements for Pretraining on the Cybersecurity Domain**
 NAACL Findings 2024.
-[\[Paper\]](https://arxiv.org/abs/2403.10576)
+[\[Paper\]](https://aclanthology.org/2024.findings-naacl.3/)
 
 - Hanna Kim, Jian Cui, __Eugene Jang__, Chanhee Lee, Yongjae Lee, Jin-Woo Chung, Seungwon Shin.          
 **DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers Learned on Graphs**
