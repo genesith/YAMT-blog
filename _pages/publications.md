@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+- __Eugene Jang__,  Kimin Lee, Jin-Woo Chung, Keuntae Park, Seungwon Shin.
+**Improbable Bigrams Expose Vulnerabilities of Incomplete Tokens in Byte-Level Tokenizers**
+Preprint.
+[\[Paper\]](https://arxiv.org/abs/2410.23684)
+
 - Jian Cui, Hanna Kim, __Eugene Jang__, Dayeon Yim, Kicheol Kim, Yongjae Lee, Jin-Woo Chung, Seungwon Shin, Xiaojing Liao.
 **Tweezers: A Framework for Security Event Detection via Event Attribution-centric Tweet Embedding**
 NDSS 2025.
