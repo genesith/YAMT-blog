@@ -24,7 +24,9 @@ I am actively looking for **PhD programs for Fall 2025**. Any advice/discussion 
 Recent News
 ------
 **2024 Oct** - New [paper on Byte-level BPE tokenizer vulnerabilities](https://arxiv.org/abs/2410.23684) is now on arxiv!
+
 **2024 Sep** - Our [paper on security event detection from Tweets](https://arxiv.org/abs/2409.08221) was accepted to NDSS 2025!
+
 **2024 Jul** - Was interviewed by KBS on the topic of [ChatGPT jailbreaks](https://www.youtube.com/watch?v=Necmzucgtho). My first major TV appearance!
 
 
