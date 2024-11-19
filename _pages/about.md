@@ -18,11 +18,13 @@ Right now I'm looking at:
 
 Prior to all of this, I received my Bachelor's and Master's degrees at KAIST. During this time I engaged with a number of topics including media bias (Master's), computer vision (Bachelor's), and physics (minor).
 
-I am actively looking for **PhD programs for Fall 2025**. Any advice/discussion is highly appreciated! You can find me CV [here](/files/CV_2024Jun.pdf).
+I am actively looking for **PhD programs for Fall 2025**. Any advice/discussion is highly appreciated! You can find me CV [here](/files/CV_EugeneJang_Nov_2024-N.pdf).
 
 
 Recent News
 ------
+**2024 Nov** - Our paper on drug jargon detection was accepted to KDD 2025!
+
 **2024 Oct** - New [paper on Byte-level BPE tokenizer vulnerabilities](https://arxiv.org/abs/2410.23684) is now on arxiv!
 
 **2024 Sep** - Our [paper on security event detection from Tweets](https://arxiv.org/abs/2409.08221) was accepted to NDSS 2025!

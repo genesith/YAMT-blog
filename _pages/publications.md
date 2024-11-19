@@ -10,6 +10,10 @@ author_profile: true
 Preprint.
 [\[Paper\]](https://arxiv.org/abs/2410.23684)
 
+- Minkyoo Song, __Eugene Jang__, Jaehan Kim, Seungwon Shin.
+**Tweezers: A Framework for Security Event Detection via Event Attribution-centric Tweet Embedding**
+KDD 2025.
+
 - Jian Cui, Hanna Kim, __Eugene Jang__, Dayeon Yim, Kicheol Kim, Yongjae Lee, Jin-Woo Chung, Seungwon Shin, Xiaojing Liao.
 **Tweezers: A Framework for Security Event Detection via Event Attribution-centric Tweet Embedding**
 NDSS 2025.
