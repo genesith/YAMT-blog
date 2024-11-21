@@ -14,7 +14,7 @@ Tokenization matters!
 It's become a [fairly mainstream idea](https://youtu.be/zduSFxRajkE?t=6711) that many model errors can be blamed on tokenization. More modern examples can include the "9.11 is larger than 9.9" and "there are 2 r's in strawberry".
 I'm not so sure about this view. I think that for every scenario where a model failure can be attributed to bad tokenization, there's hundreds of scenarios where they succeed *despite* bad tokenization.
 
-But the influence of tokenization is very real, and possibly underappreciated.
+But the influence of tokenization is very real, and quite\b\b\b\b\b possibly underappreciated.
 I noticed a common frustration across multiple works that is quite evident from their titles. [Tokenization Matters:...](https://aclanthology.org/2024.findings-naacl.113/), [Tokenization counts:...](https://arxiv.org/abs/2402.14903), [Tokenization Matters!...](https://arxiv.org/abs/2405.17067), and of course [wHy DoNt YoU jUsT uSe ThE lLaMa ToKeNiZeR??](https://huggingface.co/blog/catherinearnett/dangers-of-tokenizer-recycling).
 Clearly, many believe the effects of tokenization is being overlooked. I tend to agree!
 As model training runs become more and more extravagant, we should be paying attention to how the tokenizer shapes the model.
@@ -22,7 +22,7 @@ Keep in mind that once a model is trained with a particular tokenizer, it is not
 
 It's also very challenging to evaluate tokenizers. There are some intrisic evaluations such as fertility and compression effectiveness, but they are [not perfect indicators of performance](https://arxiv.org/pdf/2402.18376). On the other hand, downstream performance evaluations will require fully training a corresponding model (which would be subject to their own hyperparameters), making it prohibitively costly.
 
-## Some thoughts
+## My thoughts
 
 Some quick writeups of my personal thoughts regarding tokenization.
 
