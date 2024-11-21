@@ -17,6 +17,7 @@ I'm not so sure about this view. I think that for every scenario where a model f
 But the influence of tokenization is very real, and possibly underappreciated.
 I noticed a common frustration across multiple works that is quite evident from their titles. [Tokenization Matters:...](https://aclanthology.org/2024.findings-naacl.113/), [Tokenization counts:...](https://arxiv.org/abs/2402.14903), [Tokenization Matters!...](https://arxiv.org/abs/2405.17067), and of course [wHy DoNt YoU jUsT uSe ThE lLaMa ToKeNiZeR??](https://huggingface.co/blog/catherinearnett/dangers-of-tokenizer-recycling).
 Clearly, many believe the effects of tokenization is being overlooked. I tend to agree!
+
 As model training runs become more and more extravagant, we should be paying attention to how the tokenizer shapes the model.
 Keep in mind that once a model is trained with a particular tokenizer, it is not trivial to [substitute tokenizers](https://arxiv.org/abs/2405.07883) afterwards.
 
